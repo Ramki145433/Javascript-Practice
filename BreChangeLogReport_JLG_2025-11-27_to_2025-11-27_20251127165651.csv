@@ -1,0 +1,6 @@
+Sl No,Product ID,Rule,Rule Description,Last Modified Date,Last Modified Time,User ID,Remarks of User
+1,JLGM,Current DPD Check,DPD check Rule,2025-11-27,16:56:15,ram_admin,
+2,JLGM,Total Indebtedness Check,Total Indebtedness Rule,2025-11-27,16:56:15,ram_admin,
+3,JLGM,FOIR Check Extended,FOIR Check Rule,2025-11-27,16:56:15,ram_admin,
+4,JLGM,Family Monthly Obligation Check,Family member monthly obligation threshold validation,2025-11-27,16:56:15,ram_admin,
+5,JLGM,Final Loan Amount Check,Final Loan Amount Check Rule,2025-11-27,16:56:15,ram_admin,
